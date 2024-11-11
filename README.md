@@ -4,7 +4,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React_router_logo.svg" alt="React Router" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/remix-run/react-router/main/.github/logo-light.png" alt="React Router" width="40" height="40"/>
 
 
 "An e-commerce page with a robust cart system, offering full cart functionality including item management, order summaries, and total pricing. Styled entirely with Tailwind CSS for a sleek and responsive UI."
